@@ -1,4 +1,4 @@
-function Input(props){
+function Inpuut(props){
    return (
      <input
         className="border border-slate-300 outline-slate-400 px-4 py-2 rounded-md"
@@ -9,4 +9,4 @@ function Input(props){
    
 }
 
-export default Input;
+export default Inpuut;
